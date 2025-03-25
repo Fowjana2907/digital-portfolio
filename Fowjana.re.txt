@@ -1,0 +1,10 @@
+Personal Details
+
+Name          : M.Fowjana
+Date of Birth : 29.07.2006
+Gender        : Female
+
+Education
+
+Department    : BCA
+University    : Bharathidasan University
